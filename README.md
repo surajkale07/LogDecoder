@@ -1,4 +1,4 @@
-# Log Analysis Script
+# Log Decoder Script
 
 ## Overview
 
